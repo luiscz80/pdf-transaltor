@@ -19,5 +19,5 @@ PDF Translator es una aplicación móvil desarrollada con Flutter y Dart para tr
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/luiscz80/pdf-transaltor.git
+   git clone https://github.com/luiscz80/pdf-translator.git
    ```
